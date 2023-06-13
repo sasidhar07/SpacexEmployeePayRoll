@@ -1,0 +1,358 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container{
+    background-image: url("https://images.pexels.com/photos/2387793/pexels-photo-2387793.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 1;
+    flex-shrink: 1;
+    
+}
+
+.navbar{
+  width: 100%;
+  padding: 10px;
+  height: 20%;
+
+}
+.spacex-logo {
+  width: 100%;
+  height:50px;
+  margin: 0px;
+  padding: 0px;
+  background-color: black;
+ 
+ 
+}
+.container{
+    padding: 4px;
+    margin: 4px;
+}
+.logo{
+    margin-left: 0px;
+    padding: 0px;
+   
+}
+#navItem1 {
+  color: white;
+  font-family: "Roboto";
+}
+#navItem2 {
+  color: white;
+  font-family: "Roboto";
+}
+#navItem3 {
+  color: white;
+  font-family: "Roboto";
+}
+#navItem4 {
+  color: white;
+  font-family: "Roboto";
+}
+.button-nav{
+    background-color: white;
+    
+   
+}
+
+.home-container{
+    background-image: url("https://weatherboy.com/wp-content/uploads/2018/09/SpaceXmoon1.jpg");
+    height: 88vh;
+    background-size: cover;
+    color: white;
+    display: flex;
+    justify-content: start;
+    align-items: flex-end;
+    
+    
+}
+.home-starship-para{
+    font-size: 25px;
+    
+}
+.home-starship-heading{
+    margin-bottom: 14px;
+}
+.home-starship-button{
+    background-color: none;
+    border:solid white 4px;
+    border-radius: 6px;
+    padding: 8px;
+    border-style: none;
+    
+    
+}
+.home-card{
+    margin-bottom: 40%;
+    margin-left: 10%;
+}
+
+
+.starlink-container{
+  background-image: url("https://i.pinimg.com/originals/2e/de/f8/2edef8aa47092fd5c69030e2f1c47785.jpg");
+  height: 100vh;
+  background-size: cover;
+  color: white;
+  display: flex;
+  justify-content: start;
+  align-items: flex-end;
+  
+  
+}
+.starlink-starship-para{
+  font-size: 25px;
+  
+}
+.starlink-starship-heading{
+  margin-bottom: 14px;
+}
+.starlink-starship-button{
+  background-color: none;
+  border:solid white 4px;
+  border-radius: 6px;
+  padding: 8px;
+  border-style: none;
+  
+  
+}
+.starlink-card{
+  margin-bottom: 40%;
+  margin-left: 10%;
+}
+
+
+.Transporter-container{
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/242/871/691/space-rocket-launch-launching-wallpaper-preview.jpg");
+  height: 100vh;
+  background-size: cover;
+  color: white;
+  display: flex;
+  justify-content: start;
+  align-items: flex-end;
+  
+  
+}
+.Transporter-starship-para{
+  font-size: 25px;
+  
+}
+.Transporter-starship-heading{
+  margin-bottom: 14px;
+}
+.Transporter-starship-button{
+  background-color: none;
+  border:solid white 4px;
+  border-radius: 6px;
+  padding: 8px;
+  border-style: none;
+  
+  
+}
+.Transporter-card{
+  margin-bottom: 40%;
+  margin-left: 10%;
+}
+
+.starship-container{
+  background-image: url("https://w0.peakpx.com/wallpaper/164/836/HD-wallpaper-technology-spacex-starship.jpg");
+  height: 100vh;
+  background-size: cover;
+  color: white;
+  display: flex;
+  justify-content: start;
+  align-items: flex-end;
+  
+  
+}
+.starship-starship-para{
+  font-size: 25px;
+  
+}
+.starship-starship-heading{
+  margin-bottom: 14px;
+}
+.starship-starship-button{
+  background-color: none;
+  border:solid white 4px;
+  border-radius: 6px;
+  padding: 8px;
+  border-style: none;
+  
+  
+}
+.starship-card{
+  margin-bottom: 40%;
+  margin-left: 10%;
+}
+
+
+.Know-container{
+  max-height: 200%;
+  width: 100%;
+  background-color: black;
+  color: aliceblue;
+  
+}
+
+.Know-heading{
+  font-family: Tahoma, sans-serif;
+  padding: 15px;
+  font-size: 25px;
+
+  font-weight: bold;
+
+}
+
+
+  .kennedy-card{
+    width: 60vh;
+    background-color: aliceblue;
+    border-radius: 8px;
+    color: black;
+    margin-left: 20%;
+    margin-right: 20%;
+  
+  }
+
+.spacex-kennedy-img{
+  width: 100%;
+  height: 35%;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+.Kennedy-content{
+  padding: 20px;
+}
+.Kennedy-content-heading{
+  font-size: 20px;
+}
+.Follow-us-container{
+  width: 100%;
+  background-color: black;
+  padding: 10px;
+  text-align: center;
+}
+.Follow-us-container1{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 15vh;
+  background: black;
+}
+.img-icon{
+  font-size: 20px;
+
+}
+.follw-icons{
+  padding: 20px;
+  background-color: aliceblue;
+  border-radius: 90px;
+}
+.Follow-us-heading{
+  color: white;
+  background-color: black;
+  padding: 15px;
+  font-size: 20px;
+}
+.login-container{
+  background-image: url("https://images.unsplash.com/photo-1506318137071-a8e063b4bec0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTF8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=900&q=60");
+  height: 100vh;
+  background-size: cover;
+display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.login-form-container{
+  background-color: white;
+  width: 400px;
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  
+
+}
+.imgCard{
+  
+  margin: 20px;
+}
+.img {
+    width: 50%;
+    
+  
+}
+.img {
+    width: 50%;
+    
+  
+}
+
+.login-username{
+  width: 90%;
+}
+.login-password{
+  width: 90%;
+}
+
+.bg-container_Intro{
+  color: white;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.navbar{
+  height: 7%;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  color: White;
+}
+.introHeading{
+  justify-self: flex-start;
+  align-self: flex-start;
+  margin: 10px;
+  font-size: 40px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;  
+}
+#bg-video {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -1;
+  background-size: cover;
+}
+.InrtoCard{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-top: 10%;
+
+  grid-template-rows: 1fr 1fr;
+  grid-gap: 10px;
+}
+.introCardItems{
+  padding: 8%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid white;
+  border-radius: 10px;
+  flex-shrink: unset;
+  flex-wrap: wrap;
+  font-weight: bold;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border-radius: 10px;
+}
+.introCardItems:hover {
+  background-color: white;
+  color: black;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
