@@ -19,11 +19,9 @@ This project is a web application for managing employee information, attendance,
 1. Clone the repository:
 
 2. Import the database:
-- Create a MySQL database named `mydatabase`.
 - Import the SQL file provided in the `database` directory to set up the necessary tables.
 
 3. Configure the database connection:
-- Open the `config.php` file in the project's root directory.
 - Update the database credentials (`DB_HOST`, `DB_USERNAME`, `DB_PASSWORD`, `DB_DATABASE`) to match your MySQL setup.
 
 4. Start the web server:
